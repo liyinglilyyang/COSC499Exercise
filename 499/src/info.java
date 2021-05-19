@@ -11,7 +11,7 @@ public class info{
         second = temp;
 
         System.out.println("After");
-        System.out.println("First number = " + first);
-        System.out.println("Second number = " + second);
+        System.out.println("The First number is " + first);
+        System.out.println("The Second number is " + second);
     }
 }
